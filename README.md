@@ -1,14 +1,11 @@
-# English with Mây
+# English with Mây v1.1
 
-Complete static PWA with 1,000 cards.
+New features:
+- Favorites
+- Daily goal
+- Streak
+- Dark mode
+- Smart review
+- Level progress
 
-## Local
-Open index.html.
-
-## GitHub Pages
-Create a public repository, upload all files, then Settings → Pages → Deploy from branch → main / root.
-
-## Vercel
-Import the GitHub repository, choose Other, no build command, then Deploy.
-
-Progress is stored locally in each browser and does not yet sync between devices.
+Upload all six files to the existing GitHub repository and replace the old files.
